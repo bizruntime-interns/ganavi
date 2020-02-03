@@ -1,0 +1,11 @@
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\obj\Debug\netcoreapp3.1\queueCollection.AssemblyInfoInputs.cache
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\obj\Debug\netcoreapp3.1\queueCollection.AssemblyInfo.cs
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\bin\Debug\netcoreapp3.1\queueCollection.exe
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\bin\Debug\netcoreapp3.1\queueCollection.deps.json
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\bin\Debug\netcoreapp3.1\queueCollection.runtimeconfig.json
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\bin\Debug\netcoreapp3.1\queueCollection.runtimeconfig.dev.json
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\bin\Debug\netcoreapp3.1\queueCollection.dll
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\bin\Debug\netcoreapp3.1\queueCollection.pdb
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\obj\Debug\netcoreapp3.1\queueCollection.dll
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\obj\Debug\netcoreapp3.1\queueCollection.pdb
+C:\Users\ganavi\source\repos\03-02-20\queueCollection\queueCollection\obj\Debug\netcoreapp3.1\queueCollection.csprojAssemblyReference.cache

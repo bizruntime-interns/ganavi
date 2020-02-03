@@ -1,0 +1,11 @@
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\bin\Debug\netcoreapp3.1\array_collections.exe
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\bin\Debug\netcoreapp3.1\array_collections.deps.json
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\bin\Debug\netcoreapp3.1\array_collections.runtimeconfig.json
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\bin\Debug\netcoreapp3.1\array_collections.runtimeconfig.dev.json
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\bin\Debug\netcoreapp3.1\array_collections.dll
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\bin\Debug\netcoreapp3.1\array_collections.pdb
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\obj\Debug\netcoreapp3.1\array_collections.csprojAssemblyReference.cache
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\obj\Debug\netcoreapp3.1\array_collections.AssemblyInfoInputs.cache
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\obj\Debug\netcoreapp3.1\array_collections.AssemblyInfo.cs
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\obj\Debug\netcoreapp3.1\array_collections.dll
+C:\Users\ganavi\source\repos\03-02-20\array_collections\array_collections\obj\Debug\netcoreapp3.1\array_collections.pdb

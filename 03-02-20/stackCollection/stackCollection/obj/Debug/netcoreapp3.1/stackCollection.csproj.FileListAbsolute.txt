@@ -1,0 +1,11 @@
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\bin\Debug\netcoreapp3.1\stackCollection.exe
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\bin\Debug\netcoreapp3.1\stackCollection.deps.json
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\bin\Debug\netcoreapp3.1\stackCollection.runtimeconfig.json
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\bin\Debug\netcoreapp3.1\stackCollection.runtimeconfig.dev.json
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\bin\Debug\netcoreapp3.1\stackCollection.dll
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\bin\Debug\netcoreapp3.1\stackCollection.pdb
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\obj\Debug\netcoreapp3.1\stackCollection.csprojAssemblyReference.cache
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\obj\Debug\netcoreapp3.1\stackCollection.AssemblyInfoInputs.cache
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\obj\Debug\netcoreapp3.1\stackCollection.AssemblyInfo.cs
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\obj\Debug\netcoreapp3.1\stackCollection.dll
+C:\Users\ganavi\source\repos\03-02-20\stackCollection\stackCollection\obj\Debug\netcoreapp3.1\stackCollection.pdb

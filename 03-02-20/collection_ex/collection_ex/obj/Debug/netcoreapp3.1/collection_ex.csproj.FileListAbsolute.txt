@@ -1,0 +1,11 @@
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\bin\Debug\netcoreapp3.1\collection_ex.exe
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\bin\Debug\netcoreapp3.1\collection_ex.deps.json
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\bin\Debug\netcoreapp3.1\collection_ex.runtimeconfig.json
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\bin\Debug\netcoreapp3.1\collection_ex.runtimeconfig.dev.json
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\bin\Debug\netcoreapp3.1\collection_ex.dll
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\bin\Debug\netcoreapp3.1\collection_ex.pdb
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\obj\Debug\netcoreapp3.1\collection_ex.csprojAssemblyReference.cache
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\obj\Debug\netcoreapp3.1\collection_ex.AssemblyInfoInputs.cache
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\obj\Debug\netcoreapp3.1\collection_ex.AssemblyInfo.cs
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\obj\Debug\netcoreapp3.1\collection_ex.dll
+C:\Users\ganavi\source\repos\03-02-20\collection_ex\collection_ex\obj\Debug\netcoreapp3.1\collection_ex.pdb

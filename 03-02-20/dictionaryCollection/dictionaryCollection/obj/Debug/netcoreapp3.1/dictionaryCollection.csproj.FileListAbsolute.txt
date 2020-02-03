@@ -1,0 +1,11 @@
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\bin\Debug\netcoreapp3.1\dictionaryCollection.exe
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\bin\Debug\netcoreapp3.1\dictionaryCollection.deps.json
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\bin\Debug\netcoreapp3.1\dictionaryCollection.runtimeconfig.json
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\bin\Debug\netcoreapp3.1\dictionaryCollection.runtimeconfig.dev.json
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\bin\Debug\netcoreapp3.1\dictionaryCollection.dll
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\bin\Debug\netcoreapp3.1\dictionaryCollection.pdb
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\obj\Debug\netcoreapp3.1\dictionaryCollection.csprojAssemblyReference.cache
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\obj\Debug\netcoreapp3.1\dictionaryCollection.AssemblyInfoInputs.cache
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\obj\Debug\netcoreapp3.1\dictionaryCollection.AssemblyInfo.cs
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\obj\Debug\netcoreapp3.1\dictionaryCollection.dll
+C:\Users\ganavi\source\repos\03-02-20\dictionaryCollection\dictionaryCollection\obj\Debug\netcoreapp3.1\dictionaryCollection.pdb
