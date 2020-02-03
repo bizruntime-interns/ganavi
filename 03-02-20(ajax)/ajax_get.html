@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The XMLHttpRequest Object</h2>
+
+<button type="button" onclick="ajx_txt()">Request data</button>
+
+<p id="demo"></p>
+
+<script>
+function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      document.getElementById("ajx_txt.txt.txt").innerHTML = this.responseText;
+    }
+  };
+  xhttp.open("GET", "C:\Users\ganavi\Desktop\ajx_txt.txt.txt", true);
+  xhttp.send();
+}
+</script>
+
+</body>
+</html>

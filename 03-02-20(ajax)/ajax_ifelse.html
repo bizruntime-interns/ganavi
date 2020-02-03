@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>logical operator</title>
+<script language="javascript">
+
+function display()
+{
+var account=2000000;
+var debt=10000;
+if(account>10000 && debt<50000)
+document.getElementById('targetDv').innerHTML="Time for vacation";
+else
+document.getElementById('targetDv').innerHTML="Time to work";
+}
+
+</script>
+</head>
+
+
+<body>
+<h1>logical operator</h1>
+<input type="button" onclick="display()" value="Click">
+
+<div id="targetDv">
+</div>
+</body>
+
+</html>
