@@ -1,0 +1,40 @@
+<html>
+ <head>
+ <title>
+ What browser do you do have?
+ </title>
+ <script language="javascript">
+ var begin, end;
+ function display()
+ {
+ if(navigator.appName == "NetScape") {
+	if(navigator.userAgent.indexOf("Google Chrome") > 0) 
+	{
+		begin = navigator.userAgent.indexOf("Google Chrome") +"Google Chrome".length + 1;
+		end = navigator.userAgent.length;
+		document.getElementById("targetDiv").innerHTML ="You are using Google Chrome " +navigator.userAgent.substring(begin, end);
+	}
+ }
+ 
+ if (navigator.appName == "Microsoft Edge") {
+ begin = navigator.userAgent.indexOf("Microsoft Edge ") +
+ "Microsoft Edge ".length;
+ if(navigator.userAgent.indexOf(";", begin) > 0) {
+ end = navigator.userAgent.indexOf(";", begin);
+ } else {
+ end = navigator.userAgent.indexOf(")", begin)
+ + 2;
+ }
+ document.getElementById("targetDiv").innerHTML =
+ "You are using Microsoft Edge " +
+ navigator.userAgent.substring(begin, end);
+ }
+ }
+ </script>
+ </head>
+ <body>
+ <h1>Determining browser type and version</h1>
+ <input type="button" onclick="display()" value="Click Here">
+ <div ID="targetDiv"></div>
+ </body>
+</html>
